@@ -66,7 +66,7 @@ Before running the tests, ensure you have the following installed:
 1. Clone the repository to your local machine.
 
 ```bash
-      git clone https://github.com/arisuaiko/dormakaba-tech-task.git
+      git clone https://github.com/arisuaiko/dormakaba-task.git
 ```
 2. Navigate to the project directory in the terminal.
 3. Install the required dependencies using the following command:
